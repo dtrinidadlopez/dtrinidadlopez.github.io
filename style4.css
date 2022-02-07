@@ -8,6 +8,12 @@
             background-color: rgb(176, 224, 230);
          
         }
-
+html {
+        background: url(https://i.postimg.cc/nLwyybkm/Background.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
             
     
