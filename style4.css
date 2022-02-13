@@ -4,7 +4,11 @@
             color: rgb(255, 255, 255);
        
         }  
-        
+        div {
+                height:50px;
+                width: 100%;
+                border: 1px solid #4CAF50;
+}
       
 html {
         background: url(https://img.freepik.com/free-vector/black-dark-background-with-golden-lines_1017-26510.jpg?size=626&ext=jpg) no-repeat center center fixed;
